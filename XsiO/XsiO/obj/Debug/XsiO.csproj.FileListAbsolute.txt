@@ -1,0 +1,12 @@
+C:\Users\Lepsa\OneDrive\Desktop\Proiecte C#\XsiO\XsiO\bin\Debug\XsiO.exe.config
+C:\Users\Lepsa\OneDrive\Desktop\Proiecte C#\XsiO\XsiO\bin\Debug\XsiO.exe
+C:\Users\Lepsa\OneDrive\Desktop\Proiecte C#\XsiO\XsiO\bin\Debug\XsiO.pdb
+C:\Users\Lepsa\OneDrive\Desktop\Proiecte C#\XsiO\XsiO\obj\Debug\XsiO.csproj.AssemblyReference.cache
+C:\Users\Lepsa\OneDrive\Desktop\Proiecte C#\XsiO\XsiO\obj\Debug\XsiO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lepsa\OneDrive\Desktop\Proiecte C#\XsiO\XsiO\obj\Debug\XsiO.Form1.resources
+C:\Users\Lepsa\OneDrive\Desktop\Proiecte C#\XsiO\XsiO\obj\Debug\XsiO.Properties.Resources.resources
+C:\Users\Lepsa\OneDrive\Desktop\Proiecte C#\XsiO\XsiO\obj\Debug\XsiO.XsiO.resources
+C:\Users\Lepsa\OneDrive\Desktop\Proiecte C#\XsiO\XsiO\obj\Debug\XsiO.csproj.GenerateResource.cache
+C:\Users\Lepsa\OneDrive\Desktop\Proiecte C#\XsiO\XsiO\obj\Debug\XsiO.csproj.CoreCompileInputs.cache
+C:\Users\Lepsa\OneDrive\Desktop\Proiecte C#\XsiO\XsiO\obj\Debug\XsiO.exe
+C:\Users\Lepsa\OneDrive\Desktop\Proiecte C#\XsiO\XsiO\obj\Debug\XsiO.pdb
